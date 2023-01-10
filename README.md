@@ -1,7 +1,7 @@
-# NoMoreStray_flaskAPI
+# NoMoreStray_flaskAPI齊助浪寶 - 一站式領養平台
 
 ## 介紹
-齊助浪寶 - 一站式領養平台
+
 ![首頁](https://i.imgur.com/VZYpQZQ.png)
 ![品牌宗旨](https://i.imgur.com/8tGAo4w.png)
 ![產品服務](https://i.imgur.com/e6TFV7q.png)
